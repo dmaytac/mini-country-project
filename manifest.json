@@ -1,0 +1,25 @@
+{
+  "short_name": "Countries App",
+  "name": "Create React App",
+  "icons": [
+    {
+      "src": "earth.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "earth.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "earth.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
