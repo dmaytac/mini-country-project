@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mini-country-project/static/css/main.b5f59f7f.css",
-    "main.js": "/mini-country-project/static/js/main.ca38b774.js",
+    "main.css": "/mini-country-project/static/css/main.09f96d4a.css",
+    "main.js": "/mini-country-project/static/js/main.1c43e083.js",
     "index.html": "/mini-country-project/index.html",
-    "main.b5f59f7f.css.map": "/mini-country-project/static/css/main.b5f59f7f.css.map",
-    "main.ca38b774.js.map": "/mini-country-project/static/js/main.ca38b774.js.map"
+    "main.09f96d4a.css.map": "/mini-country-project/static/css/main.09f96d4a.css.map",
+    "main.1c43e083.js.map": "/mini-country-project/static/js/main.1c43e083.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5f59f7f.css",
-    "static/js/main.ca38b774.js"
+    "static/css/main.09f96d4a.css",
+    "static/js/main.1c43e083.js"
   ]
 }
