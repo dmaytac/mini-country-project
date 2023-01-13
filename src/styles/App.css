@@ -7,7 +7,7 @@
     top: 0;
     width: 100%;
     background-color: rgb(233, 233, 233);
-    box-shadow: 1px 1px 5px rgb(167, 167, 167);
+    box-shadow: 1px 1px 10px rgb(186, 186, 186);
 }
 .header-wrapper h1{
     font-weight: 200;
@@ -43,8 +43,8 @@
     width: 45vh;
     height: 400px;
     border-radius: 8px;
-    box-shadow: 1px 1px 6px rgb(186, 186, 186);
-    border: 1px solid rgb(143, 143, 143);
+    box-shadow: 1px 1px 10px rgb(186, 186, 186);
+
 }
 .country img{
     border-top-left-radius: 8px;
@@ -71,7 +71,6 @@
     width: 60%;
     max-width: 65vh;
     border-radius: 8px;
-    border: 1px solid rgb(143, 143, 143);
     box-shadow: 0px 0px 4px rgb(150, 150, 150);
     padding: 10px 5px 10px 40px;
 
