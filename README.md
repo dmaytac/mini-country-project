@@ -7,5 +7,4 @@
 <li> You can select the sorting by name or by population. </li>
 <li> You can filter the countries by region. </li>
 <li> Dark Mode</li>
-<li> Mobile 
 </ul>
